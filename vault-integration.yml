@@ -1,5 +1,5 @@
 server:
-  port: 8085 # El puerto que le quieras asignar a este microservicio
+  port: 8085 
 
 eureka:
   client:
